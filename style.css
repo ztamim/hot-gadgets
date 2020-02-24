@@ -1,0 +1,45 @@
+.bg-color-red{
+   
+}
+.container {
+    margin-bottom: 10px;
+}
+
+#carouselExampleIndicators li{
+    background-color: #FFCB1B;
+}
+
+.buy-btn{
+    padding:-20px 10px;
+    background-color: #000000;
+    width:120px;
+    height:40px;
+    
+}
+.buy-btn p{
+    margin-top:2px;
+    color:white;
+}
+.show-case-head a{
+    text-decoration: none;
+    color:orange;
+}
+.card-footer{
+    background-color:white;
+    border-top:none;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+    padding:20px;
+}
+
+.categories-card{
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.categories-card img{
+    
+}
+
+
