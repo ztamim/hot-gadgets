@@ -40,7 +40,10 @@
 
 }
 .carousel-bg-{
-    background-image: url("");
+    background-image: url("images/header-bg.png");
 }
 
+.catagories-head h1{
+    margin-bottom:50px;
+}
 
